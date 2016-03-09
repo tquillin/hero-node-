@@ -1,0 +1,25 @@
+{
+  "name": "hero-node-",
+  "version": "1.0.0",
+  "description": "jam session blog",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tquillin/hero-node-.git"
+  },
+  "keywords": [
+    "music",
+    "blog",
+    "jam",
+    "session"
+  ],
+  "author": "L'ombre du Guépard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tquillin/hero-node-/issues"
+  },
+  "homepage": "https://github.com/tquillin/hero-node-#readme"
+}
